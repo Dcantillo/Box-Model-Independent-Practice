@@ -1,0 +1,56 @@
+img {
+    height: 200px;
+}
+
+h3{
+border: 1px solid gold; 
+    /*   T	R	B	L       */
+    padding: 10px 10px 10px 10px     ;
+}
+
+p {
+    border: 1px dotted black; 
+     /*   T	R	B	L       */
+     margin: 20px 20px 20px 20px     ;
+     padding: 10px 10px 10px 10px     ;
+}
+
+img {
+    border: 1px dotted blue; 
+     /*   T	R	B	L       */
+     margin: 20px 20px 20px 20px     ;
+     padding: 10px 10px 10px 10px     ;
+}
+
+.dog{
+     border: 4px groove blue; 
+     /*   T	R	B	L       */
+     margin: 20px 20px 20px 20px     ;
+     padding: 10px 10px 10px 10px     ;
+    margin-top: 25px;
+    margin-bottom: 30px; 
+}
+
+.cat{
+     border: 4px double lightblue; 
+     /*   T	R	B	L       */
+     margin: 10px 10px 10px 10px     ;
+     padding: 15px 15px 15px 15px     ;
+    padding-right: 20px; 
+}
+
+ul {
+    border: 4px dotted grey; 
+     /*   T	R	B	L       */
+     margin: 10px 10px 10px 5px     ;
+     padding: 25px 15px 25px 40px     ;
+    
+}
+
+li{
+    border: 4px hidden white; 
+     /*   T	R	B	L       */
+     margin: 10px 10px 10px 5px     ;
+     padding: 10px 15px 25px 10px     ;
+    
+}
